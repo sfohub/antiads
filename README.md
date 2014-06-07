@@ -1,4 +1,2 @@
-antiads
-=======
-
-ad block for tieba
+#贴吧广告屏蔽-还原一个干净的贴吧#
+##使用方法：将一下css复制到stylish中 即可###
